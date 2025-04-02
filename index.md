@@ -435,6 +435,8 @@ please preview your site before committing, and make sure to run
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
+<p><a href = "https://ksu.zoom.us/j/98293727525?pwd=WJItoHMO1fjBV3dHERdX1URZ4FyqaC.1">Zoom</a> without audio (<a href = "https://codimd.carpentries.org/T_gOVB5bQa-UpOlNHYJeKg?both">directions</a>)  to see the screen on your own device.</p>
+
 {% comment %}
 For online workshops, the section below provides:
 - installation instructions for the Zoom client
